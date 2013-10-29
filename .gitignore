@@ -1,0 +1,5 @@
+/target/stale/extract-native.dependencies
+/.lein-repl-history
+/.nrepl-port
+/target/repl-port
+/.lein-failures
