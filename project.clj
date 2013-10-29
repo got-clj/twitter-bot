@@ -7,4 +7,6 @@
                  [twitter-api "0.7.4"]
                  [tentacles "0.2.5"]
                  [clj-time "0.6.0"]
-                 [jarohen/chime "0.1.2"]])
+                 [jarohen/chime "0.1.2"]
+                 [org.clojure/core.async "0.1.242.0-44b1e3-alpha"]
+                 [org.clojure/core.memoize "0.5.6"]])
